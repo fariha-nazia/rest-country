@@ -13,7 +13,7 @@ const Countries = () => {
 
     return (
         <div>
-            <h1>Lets Have Your Dream Trip</h1>
+            <h1>Countries</h1>
             <h3>More Than Over {countries.length} Countries</h3>
 
             <div className='countries-container'>
